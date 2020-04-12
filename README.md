@@ -1,4 +1,4 @@
-# Fast Fourier Transform using Cooley-Tukey Algorithm
+# Fast Fourier Transform using Cooley-Tukey Algorithm in Verilog
 A 32 point radix-2 FFT module written in Verilog
 
 
