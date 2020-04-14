@@ -22,7 +22,7 @@ Run program
 iverilog -o main FFT.v MyTestbed.v FFTtb.v
 vvp main
 ```
-This creates a main.vcd file in the same directory.
+This creates a <b><i>main.vcd</i></b> file in the same directory.
 To do simulation of the program, you have to install gtkwave
 
 gtkwave Installation
