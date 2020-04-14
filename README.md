@@ -40,4 +40,4 @@ gtkwave main.vcd
   <br>
   <br>
   <h3>Output Fourier Transform</h3>
-  <img src="images/FFT.png"> Our Verilog FFT module in comparison with FFT function in Python. The output is ploted using matplotlib</img>
+  <img src="images/FFT.png" align="center"> Our Verilog FFT module in comparison with FFT function in Python. The output is ploted using matplotlib</img>
