@@ -35,5 +35,5 @@ Run simulation
 gtkwave main.vcd
 ```
 
-<h3><u>Simulation Output<u></h3>
-  <img src="images/simulation1.png"> <center>Simulation</center> </img>
+<h3><u>Simulation Output</u></h3>
+  <img src="images/simulation1.png"> <align="center">Simulation</align> </img>
