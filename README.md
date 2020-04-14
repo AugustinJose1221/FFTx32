@@ -35,5 +35,9 @@ Run simulation
 gtkwave main.vcd
 ```
 
-<h3><u>Simulation Output</u></h3>
-  <img src="images/simulation1.png"> <align="center">Simulation</align> </img>
+<h3>Simulation Output</h3>
+  <img src="images/simulation1.png"> </img>
+  <br>
+  <br>
+  <h3>Output Fourier Transform</h3>
+  <img src="images/FFT.png"> Our Verilog FFT module in comparison with FFT function in Python. The output is ploted using matplotlib</img>
