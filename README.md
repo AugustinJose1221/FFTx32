@@ -2,7 +2,7 @@
 A 32 point radix-2 FFT module written in Verilog
 
 
-Clone this repo
+Clone this repository
 ```
 git clone https://github.com/AugustinJose1221/FFTx32.git
 ```
